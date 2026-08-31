@@ -24,17 +24,11 @@ It is especially useful for learners, interview prep, and anyone who wants a con
 
 ## Screenshot / Demo Placeholder
 
-Insert a demo image or GIF in this exact location in the README:
 
-```md
-![Pathfinding Visualizer demo](docs/pathfinding-visualizer-demo.gif)
-```
 
-Recommended asset path:
+https://github.com/user-attachments/assets/d59c0a5d-b112-4bfe-98e2-69e8f3c5f3cf
 
-- `docs/pathfinding-visualizer-demo.gif` or `docs/pathfinding-visualizer-demo.png`
 
-Place the file in a new `docs/` folder before publishing.
 
 ## Installation
 
