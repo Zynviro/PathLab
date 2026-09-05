@@ -1,4 +1,5 @@
 # Pathfinding Visualizer
+https://zynviro.github.io/PathLab/
 
 A lightweight browser-based pathfinding playground for exploring shortest-path algorithms, generating mazes, and tuning weighted grids in real time.
 
